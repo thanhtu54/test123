@@ -5,3 +5,4 @@ const cm4 = 4;
 const check = 1;
 const check2 = 2;
 const revert1 = 1;
+const revert2 = 2;
