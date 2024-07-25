@@ -7,3 +7,4 @@ const check2 = 2;
 const revert1 = 1;
 const revert2 = 2;
 const revert3 = 3;
+const revert4 = 4;
