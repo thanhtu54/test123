@@ -1,2 +1,4 @@
 const a = 2;
-const b = 12385351439;
+const b = 123;
+const c = 3;
+const d = 4;
